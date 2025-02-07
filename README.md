@@ -1,6 +1,6 @@
-# AXUM + PostgresSQL CRUD Application
+# AXUM + PostgreSQL CRUD Application
 
-## For testing
+## For testing:
 
 - ### Create user:
 ```bash
